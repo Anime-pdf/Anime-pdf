@@ -30,7 +30,7 @@
 
 <a href="https://github.com/Anime-pdf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anime-pdf&count_private=true&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anime-pdf&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anime-pdf&count_private=true&theme=buefy&layout=compact" />
 </a>
 
 <br/>

@@ -1,12 +1,3 @@
-<h2> Hey there! I'm Paul.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University.
-- 🌱 &nbsp; Learning more about Data Structure, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design as side hustle.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;

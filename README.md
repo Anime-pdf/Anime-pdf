@@ -19,7 +19,7 @@
 - 🖥 &nbsp;
 <code align="left"><img height="20" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white"></code>
 <code align="left"><img height="20" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"></code>
-
+<code align="left"><img height="20" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white"></code>
 <br/>
 
 <a href="https://github.com/Anime-pdf">

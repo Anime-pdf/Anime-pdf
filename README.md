@@ -30,4 +30,5 @@
 
 <br/>
 
-https://www.credly.com/badges/38c3a1b9-a690-4ce7-9533-def1f102bcae/public_url
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->

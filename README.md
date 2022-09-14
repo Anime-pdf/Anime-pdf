@@ -16,10 +16,6 @@
 - ⚙️ &nbsp;
 <code align="left"><img height="20" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"></code>
 <code align="left"><img height="20" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"></code>
-- 🔧 &nbsp;
-<code align="left"><img height="20" src="https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white" /></code>
-<code align="left"><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"></code>
-<code align="left"><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"></code>
 - 🖥 &nbsp;
 <code align="left"><img height="20" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white"></code>
 <code align="left"><img height="20" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"></code>

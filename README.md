@@ -1,13 +1,18 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- ## Desktop 💻
+<h3> Desktop 💻 </h3>  
+
   ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,py,java)
-- ## Web 🌐
+<h3> Web 🌐 </h3>  
+
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)
-- ## Data Storaging 🛢
+<h3> Data Storaging 🛢 </h3>  
+
   ![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)
-- ## Tools ⚙️
+<h3> Tools ⚙️ </h3>  
+
   ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rs)
-- ## Visuals 🖥
+<h3> Visuals 🖥 </h3>  
+
   ![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,blender)
 <br/>
 

@@ -1,7 +1,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <h3> Desktop 💻 </h3>  
 
-  ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,py,java)
+  ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java)
 <h3> Web 🌐 </h3>  
 
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)
@@ -13,7 +13,7 @@
   ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rs)
 <h3> Visuals 🖥 </h3>  
 
-  ![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,blender)
+  ![My Skills](https://skillicons.dev/icons?i=ps,au,pr,blender)
 <br/>
 
 <a href="https://github.com/Anime-pdf">

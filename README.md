@@ -13,7 +13,7 @@
   ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rs)
 <h3> Visuals 🖥 </h3>  
 
-  ![My Skills](https://skillicons.dev/icons?i=ps,au,pr,blender)
+  ![My Skills](https://skillicons.dev/icons?i=ps,au,pr)
 <br/>
 
 <a href="https://github.com/Anime-pdf">
